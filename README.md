@@ -1,6 +1,6 @@
 # **Repositório: Primeiros Códigos em C - The Huxley**
 
-Este repositório contém os primeiros códigos que desenvolvi na linguagem de programação C, durante minhas atividades na plataforma [The Huxley](https://github.com/jwaozera/Projeto-MD-2024/tree/main). Essas atividades fazem parte da disciplina **Programação 1** do curso de **Ciências da Computação**.
+Este repositório contém os primeiros códigos que desenvolvi na linguagem de programação C, durante minhas atividades na plataforma [The Huxley](https://www.thehuxley.com/profile/48313?page=1). Essas atividades fazem parte da disciplina **Programação 1** do curso de **Ciências da Computação**.
 
 ## **Sobre o Repositório**
 
